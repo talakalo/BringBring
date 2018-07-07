@@ -1,2 +1,2 @@
 # BringBring
-Bring atoumaition project
+Bring automation project
